@@ -1,13 +1,50 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'PlusJakartaSans-Bold';
+    src: url('./assets/fonts/PlusJakartaSans-Bold.ttf');
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+    font-family: 'PlusJakartaSans-Light';
+    src: url('./assets/fonts/PlusJakartaSans-Light.ttf');
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans-Regular';
+    src: url('./assets/fonts/PlusJakartaSans-Regular.ttf');
+}
+
+body {
+    scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'PlusJakartaSans-Bold';
+}
+
+div, p, span {
+    font-family: 'PlusJakartaSans-Regular';
+}
+
+small {
+    font-family: 'PlusJakartaSans-Light';
+}
+
+::selection {
+    background-color: #4ade80;
+    color: black;
+}
+
+.nav-item {
+    padding: 10px;
+    color: #000;
+    transition: color 0.3s ease;
+}
+
+.nav-item.active-nav {
+    border: 2px solid #BEDC74;
+    font-weight: bold;
 }
