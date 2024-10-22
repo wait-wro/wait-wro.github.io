@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aab39610.css",
+    "main.js": "/static/js/main.9b7eecfe.js",
+    "static/media/footer.JPG": "/static/media/footer.731d1005ffb41041c6b0.JPG",
+    "static/media/about002.jpg": "/static/media/about002.556207ee072f36f1e049.jpg",
+    "static/media/about001.jpg": "/static/media/about001.d17a907380e9c424396a.jpg",
+    "static/media/about003.jpg": "/static/media/about003.24005c1e9dc967a18d2a.jpg",
+    "static/media/photo.jpg": "/static/media/photo.49dd87d8deb91d21d339.jpg",
+    "static/media/PlusJakartaSans-Light.ttf": "/static/media/PlusJakartaSans-Light.6c8e1d7ccc92d1bf041b.ttf",
+    "static/media/PlusJakartaSans-Bold.ttf": "/static/media/PlusJakartaSans-Bold.542d4930de15d99be736.ttf",
+    "static/media/PlusJakartaSans-Regular.ttf": "/static/media/PlusJakartaSans-Regular.8b8f90ab0e945b1e795a.ttf",
+    "static/media/logo.png": "/static/media/logo.932884879385554c3c25.png",
+    "static/media/github.svg": "/static/media/github.a5fe99447c64c72a7e11153e8832b00e.svg",
+    "static/media/meetup.svg": "/static/media/meetup.8a6211c0bb93d0ae34ed9f91dbbaa012.svg",
+    "static/media/facebook.svg": "/static/media/facebook.63097634cd4b0c9d53c3b4896f5b1601.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.ae85cd3440e10ae6bf80aabe4a80a2db.svg",
+    "index.html": "/index.html",
+    "static/media/path-circle.svg": "/static/media/path-circle.542c8798415f1a2e143d1ee8f4183e38.svg",
+    "static/media/round.svg": "/static/media/round.3a4cbb9e80d3d5d21150a5d5b3c109ba.svg",
+    "main.aab39610.css.map": "/static/css/main.aab39610.css.map",
+    "main.9b7eecfe.js.map": "/static/js/main.9b7eecfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aab39610.css",
+    "static/js/main.9b7eecfe.js"
+  ]
+}
